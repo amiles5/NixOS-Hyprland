@@ -25,9 +25,6 @@ in
 
     # define user packages here
     packages = with pkgs; [
-    noson
-    yazi
-    obsidian
       ];
     };
     
